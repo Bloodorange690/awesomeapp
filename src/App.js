@@ -1,13 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Title from "./components/Title";
 
 function App() {
   return (
     <div className="App">
-     <header className="App-header">
-       <p>I want to be an elephant and eat sugarcotton all day long</p>
-        <p>Na-Na-na-naaaa</p>
+      <header className="App-header">
+        <p>I want to be an elephant and eat cotton candys all day long</p>
+        <p>I hope it will work</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
