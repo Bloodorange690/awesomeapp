@@ -6,6 +6,10 @@ import Title from "./components/Title";
 function App() {
   return (
     <div className="App">
+      <main>
+        <Title />
+      </main>
+
       <header className="App-header">
         <p>I want to be an elephant and eat cotton candys all day long</p>
         <p>I hope it will work</p>
